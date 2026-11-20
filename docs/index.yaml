@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-20T16:22:51.6131433+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 30137fbd0886595725727cb1aec5440f00a80860d15c1e0078baccd91f182e90
+    name: test-chart
+    type: application
+    urls:
+    - https://onuroner.github.io/helm-charts-repo/test-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-20T16:22:51.6107328+03:00"
